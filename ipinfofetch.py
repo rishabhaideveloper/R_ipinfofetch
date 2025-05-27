@@ -22,7 +22,7 @@ def banner():
    ░   ░ ░▒ ░       ▒   ▒▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░ ░ ░  ░░░   ░▒ ░
  ░ ░   ░ ░░         ░   ▒     ░░   ░   ░   ▒      ░    ░    ░  
        ░               ░  ░   ░           ░  ░   ░  ░ ░    ░  
-              {YELLOW}By Rishabh | IPTracerX v2.0{RESET}
+              {YELLOW}By Rishabh | R_IPinfofetch{RESET}
 """)
 
 # IP Tracker
